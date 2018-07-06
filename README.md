@@ -1,2 +1,4 @@
 # simplegallery
-Image Gallery built with Bootstrap 4+
+
+An image gallery built with Bootstrap 4+.
+
